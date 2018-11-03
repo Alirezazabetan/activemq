@@ -1,0 +1,8 @@
+
+@squid:S1452"&Remove usage of generic wildcard type.(›ýá›ûÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß´¼
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ÎË–
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ£¡£
+asquid:UselessImportCheck":Remove this unused import 'org.apache.camel.CamelContext'.(¸ò¬Žùÿÿÿÿ
+zsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ
+jsquid:UselessImportCheck"CRemove this unused import 'org.apache.camel.builder.NotifyBuilder'.(Ö Ð€þÿÿÿÿ
